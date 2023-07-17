@@ -1,0 +1,6 @@
+1 - intents
+2 - nlp basics
+3 - nltk_utils
+4 - Neural Networks
+5 - train.py
+6 - chat.py
